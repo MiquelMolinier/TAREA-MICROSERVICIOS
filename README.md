@@ -1,4 +1,5 @@
 # TAREA-MICROSERVICIOS
 Laboratorio de microservicios con Spring-Boot
-<h2>Alumno: Alderete Cruzatt Miguel Humberto</h2>
-<h2>Código: 17200131</h2>
+<p>Alumno: Alderete Cruzatt Miguel Humberto</p>
+<p>Código: 17200131</p>
+<p>En el documento word "Prueba de servicio" se ha hecho la conversión de todos los tipos creados</p>
